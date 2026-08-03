@@ -23,7 +23,7 @@ export const certificates: CertificateItem[] = [
     date: "July 7, 2026",
     credentialId: "CEBIA1IN",
     verificationUrl:
-      "https://courses.ibmcep.cognitiveclass.ai/certificates/9ede33674452b4421afdd44f1eb2a43b5",
+      "https://courses.ibmcep.cognitiveclass.ai/certificates/9ede3367452b4421afdd44fleb2a43b5",
   },
   {
     title: "Certificate Program in Python Full Stack",
